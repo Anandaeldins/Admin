@@ -11,7 +11,7 @@ Selamat datang di folder ini! Berikut adalah daftar isi dari semua file dan subf
 - [izin.html](./izin.html)
 - [jabatan.html](./jabatan.html)
 - [karyawan.html](./karyawan.html)
-- lembur.html](./lembur.html)
+- [lembur.html](./lembur.html)
 
 
 ## Daftar Subfolder
